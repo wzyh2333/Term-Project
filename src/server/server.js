@@ -57,7 +57,7 @@ app.post('/users', function (req, resp) {
 });
 
 
-// 用户管理部分
+// -----------------用户管理部分---------------------
 
 // 查询所有用户
 app.get('/users', function (req, resp) {
@@ -179,7 +179,7 @@ function addUsers() {
 
 
 
-// 学生成绩管理部分
+//----------- 学生成绩管理部分----------------
 
 // 查询所有学生
 app.get('/stus', function (req, resp) {

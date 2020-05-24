@@ -6,8 +6,8 @@ import { User } from './User';
 
 @Component({
   selector: 'app-user',
-  templateUrl: './user.component.html',
-  styleUrls: ['./user.component.css']
+  templateUrl: './user-management.component.html',
+  styleUrls: ['./user-management.component.css']
 })
 export class UserComponent implements OnInit {
 

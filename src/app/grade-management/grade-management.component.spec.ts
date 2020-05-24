@@ -1,6 +1,6 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { GradeComponent } from './grade.component';
+import { GradeComponent } from './grade-management.component';
 
 describe('GradeComponent', () => {
   let component: GradeComponent;

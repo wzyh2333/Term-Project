@@ -6,8 +6,8 @@ import { Stu } from './Stu';
 
 @Component({
   selector: 'app-grade',
-  templateUrl: './grade.component.html',
-  styleUrls: ['./grade.component.css']
+  templateUrl: './grade-management.component.html',
+  styleUrls: ['./grade-management.component.css']
 })
 export class GradeComponent implements OnInit {
 

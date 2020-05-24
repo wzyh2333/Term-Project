@@ -13,8 +13,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { LoginGuard } from './login.guard';
 import { AuthService } from './auth.service';
 import { ExitComponent } from './exit/exit.component';
-import { GradeComponent } from './grade/grade.component';
-import { UserComponent } from './user/user.component';
+import { GradeComponent } from './grade-management/grade-management.component';
+import { UserComponent } from './user-management/user-management.component';
 
 
 const mgtChildrenRoutes: Routes = [
